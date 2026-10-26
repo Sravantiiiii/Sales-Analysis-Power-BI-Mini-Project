@@ -30,7 +30,8 @@ Data preparation included checking duplicates, correcting formatting and date is
 ## 🔗 Data Modeling
 The tables were connected through relationships between customers, employees, products, orders, order items, and a Calendar table. The Calendar table supports date-based analysis.
 
-**Data model screenshot:** To be added.
+<img width="467" height="355" alt="data_model" src="https://github.com/user-attachments/assets/b58ad963-69b6-4a75-b6a0-25a89a77a268" />
+
 
 ## 📊 Dashboard Pages
 
@@ -40,7 +41,8 @@ The tables were connected through relationships between customers, employees, pr
 - Revenue by region.
 - Region and month slicers.
 
-**Screenshot:** To be added.
+<img width="710" height="398" alt="executive-overview" src="https://github.com/user-attachments/assets/0a9bdd2a-fcc5-4eda-a6cd-fac7883ad34b" />
+
 
 ### 2. Sales Analysis
 - Revenue by salesperson and region.
@@ -48,14 +50,16 @@ The tables were connected through relationships between customers, employees, pr
 - Filters for month, region, and salesperson.
 - Bookmarks for saved report views.
 
-**Screenshot:** To be added.
+<img width="707" height="395" alt="sales_analysis" src="https://github.com/user-attachments/assets/f259be97-4c09-4c7b-b97a-3052a80eafd0" />
+
 
 ### 3. Product Analysis
 - Revenue by product.
 - Revenue by product category.
 - Interactive product and category analysis.
 
-**Screenshot:** To be added.
+<img width="711" height="392" alt="product_analysis" src="https://github.com/user-attachments/assets/87f2d1da-9915-4daa-bfe8-8908dbb251bf" />
+
 
 ### 4. Customer Details
 - Customer-level revenue, order count, and quantity.
@@ -63,7 +67,8 @@ The tables were connected through relationships between customers, employees, pr
 - Revenue distribution by region.
 - Drill-through to detailed customer information.
 
-**Screenshot:** To be added.
+<img width="707" height="398" alt="customer_details" src="https://github.com/user-attachments/assets/9c7925e8-a9a5-42e1-b5b6-d270c43a86c3" />
+
 
 ## ⚙️ Interactive Features
 - Slicers and filters.
