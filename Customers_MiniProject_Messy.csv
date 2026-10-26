@@ -1,0 +1,32 @@
+Customer_ID,Customer_Name,Email,City,Region
+1001,Aarav Mehta,aarav.mehta@example.com,Hyderabad,South
+1002,  priya sharma  ,priya.sharma@example.com,Bengaluru,South
+1003,Rahul Verma,rahul.verma@example.com,Mumbai,West
+1004,Neha Kapoor,neha.kapoor@example.com,Delhi,North
+1005,vikram rao,vikram.rao@example.com,Chennai,South
+1006,Ananya Singh,ananya.singh@example.com,Pune,West
+1007,Karan Patel,karan.patel@example.com, Ahmedabad , west 
+1008,Meera Iyer,meera.iyer@example.com,Kochi,South
+1009,ROHAN GUPTA,rohan.gupta@example.com,Jaipur,North
+1010,Sneha Joshi,sneha.joshi@example.com,Lucknow,North
+1011,Arjun Nair,arjun.nair@example.com,Kolkata ,East
+1012,Ishita Das,ishita.das@example.com,Bhubaneswar,East
+1013,Manish Shah,manish.shah@example.com,Surat, south 
+1014,Kavya Reddy,kavya.reddy@example.com,Hyderabad,South
+1015,Aditya Jain,aditya.jain@example.com,chandigarh,North
+1016,Pooja Menon,pooja.menon@example.com,Kochi,South
+1017,Siddharth Roy,siddharth.roy@example.com ,Kolkata,East
+1018,Nisha Bansal,nisha.bansal@example.com,Delhi,SOUTH
+1019,Rakesh Kulkarni,rakesh.k@example.com,Pune,West
+1020,Divya Rao,divya.rao@example.com,Chennai,South
+1021,Varun Malhotra,varun.m@example.com,Jaipur,North
+1022,Swati Kulkarni, swati.k@example.com ,Mumbai,West
+1023,Harish Kumar,harish.k@example.com,Hyderabad,South
+1024,Tanya Sen,tanya.sen@example.com,Kolkata,north 
+1025,Nitin Sethi,nitin.sethi@example.com,Delhi,North
+1026,Aisha Khan,aisha.khan@example.com,Lucknow,North
+1027,Deepak Yadav,deepak.y@example.com,Patna,East
+1028,Ritu Agarwal,ritu.a@example.com,Ahmedabad,West
+1029,Sanjay Bose,sanjay.b@example.com,Bhubaneswar,East
+1030,,lavanya.k@example.com,Bengaluru,South
+1006, Ananya Singh,ananya.singh@example.com,Pune,west

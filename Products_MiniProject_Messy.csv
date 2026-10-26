@@ -1,0 +1,32 @@
+Product_ID,Product_Name,Category,Unit_Price,Status
+2001,Classic T-Shirt,Apparel,799,Active
+2002,Premium Hoodie,Apparel,1599,Active
+2003,Running Shoes, electronics ,2499,Active
+2004,Casual Sneakers,Footwear,2199,Active
+2005, Travel Backpack ,Bags,1899,Active
+2006,Laptop Sleeve,ACCESSORIES,999,Active
+2007,Wireless  Mouse,Electronics,1299,Active
+2008,Bluetooth Speaker,Electronics,2299,Active
+2009,Smart Watch,Electronics,4999,Active
+2010,Water Bottle,lifestyle,699,Active
+2011,Yoga Mat,Fitness,1199,Active
+2012,Desk  Lamp,Home,1499,active
+2013,Cotton Shirt,Apparel,899,Active
+2014,Formal Shoes,Footwear,2899,Active
+2015,Duffel Bag,Bags,1699,Active
+2016,USB-C Hub,Accessories,1799,Active
+2017,Keyboard,Electronics,1999,Active
+2018,Air Purifier Mini,Home,6999,Active
+2019,Resistance Bands,Fitness,899,Active
+2020,Coffee Tumbler,Lifestyle,799,Active
+2021,Polo T-Shirt,Apparel,1099,Active
+2022,Wireless Earbuds,Electronics,2999,Active
+2023,Laptop Stand,Accessories,,Active
+2024,Gym Bag,Bags ,1399,Active
+2025,Fitness Tracker,Fitness,3299,Active
+2026,Table Fan,,2499,Active
+2027,Formal Shirt,Apparel,1399,Active
+2028,Crossbody Bag,Bags,1299,Active
+2029,Power Bank ,Electronics,1899,Active
+2030,Travel Mug,lifestyle,999,Active
+2008, Bluetooth Speaker,Electronics,2299,Active

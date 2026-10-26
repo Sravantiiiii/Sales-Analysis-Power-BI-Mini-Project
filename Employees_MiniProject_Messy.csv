@@ -1,0 +1,16 @@
+Employee_ID,Employee_Name,Role,Region,Manager_ID
+E001,Ravi Kumar,Sales Manager,South,E001
+E002, Sonia Reddy ,Sales Executive,South,E001
+E003, Amit Sharma ,Sales Executive,North,E001
+E004,priya nair,Sales Executive,West,E001
+E005,Kunal Das,Sales Executive,East,E001
+E006,Megha Rao,SALES EXECUTIVE,south,E002
+E007,Vivek Jain,Sales Executive,North, E003 
+E008,Anjali Shah,Sales Executive,West,E004
+E009,Rahul Sen, sales executive ,East,E005
+E010,Divya Menon,Sales Executive,South,E002
+E011,Arvind Patel,Sales executive, north ,E004
+E012,Nandita  Roy,Sales Executive,East,E005
+E013,Suresh Iyer,Sales Executive,NORTH,E003
+E014,Maya Gupta,Sales Executive,South,
+E015,Tarun Bose,Sales Executive,East,E005 
